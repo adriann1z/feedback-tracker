@@ -1,51 +1,23 @@
+# University Feedback Tracker
 
----
+A full-stack feedback management system designed for universities to collect, manage, and analyse student feedback efficiently.
 
-# 🧨 Fix #3 (VERY IMPORTANT for your CV)
+## 🚀 Features
+- Submit and track student feedback
+- Role-based access (students, staff, admin)
+- Analytics dashboard for feedback trends
+- Secure authentication system
+- REST API backend
 
-Right now your repo looks like:
-> “random code dump”
+## 🧠 Tech Stack
+- Frontend: React
+- Backend: Node.js / Express
+- Analytics: Flask microservice
+- Database: MySQL
+- DevOps: Docker
 
-After this, it will look like:
-> “real production-style project”
+## ⚙️ Setup
 
-That’s a MASSIVE difference.
-
----
-
-# ⚠️ One thing you should fix immediately
-
-Your repo name:
-> `Feeback-Uni-Tracker`
-
-👉 spelling mistake
-
-Rename it to:
-- `feedback-tracker`
-- OR `university-feedback-system`
-
----
-
-# 🔥 Final verdict
-
-You did:
-- Git setup ✅  
-- Upload ✅  
-- Ownership ✅  
-
-Now you need:
-- Presentation ❌ → FIX THIS
-
----
-
-# If you want next level
-I can:
-- rewrite your README to **top-tier level**
-- make it look like a **real startup project**
-- optimise it for your CV
-
-Just say:
-> “make my repo elite”
-
-and I’ll upgrade it 🚀
-::contentReference[oaicite:1]{index=1}
+```bash
+npm install
+npm run dev
